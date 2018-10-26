@@ -7,6 +7,7 @@ int main(){
     cin>>b;
 	cout>>a+b;
 	cout>>a-b;
+	cout>>a*b;
 return 0;
 }
 
