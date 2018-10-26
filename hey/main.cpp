@@ -5,6 +5,7 @@ int main(){
 	cout<<"enter some numbers"<<endl;
     cin>>a;
     cin>>b;
+	cout>>a+b;
 return 0;
 }
 
